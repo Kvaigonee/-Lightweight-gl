@@ -17,8 +17,7 @@
     "url": "https://github.com/Kvaigonee/Lightweight-gl/issues"
   },
   "homepage": "https://github.com/Kvaigonee/Lightweight-gl#readme",
-
   "devDependencies": {
-    "typescript": "^5.0.2"
+    "typescript": "^4.8.2"
   }
 }
